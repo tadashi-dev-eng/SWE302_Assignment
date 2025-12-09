@@ -1,0 +1,3 @@
+[submodule "swe302_assignments"]
+path = swe302_assignments
+url = https://github.com/douglasswmcst/swe302_assignments.git
